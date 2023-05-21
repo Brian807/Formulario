@@ -1,0 +1,23 @@
+#contenido {
+    width: 300px;
+    background: aliceblue;
+    font: 25px arial;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid purple;
+    box-shadow: 0px 5px 50px;
+    padding: 4em 5em;
+    border-radius: 15px;
+
+
+}
+
+body {
+
+background-color: #f0e6f7;
+opacity: 1;
+background-image:  radial-gradient(#ad45f7 0.2px, transparent 0.2px), radial-gradient(#ad45f7 0.2px, #f0e6f7 0.2px);
+background-size: 8px 8px;
+background-position: 0 0,4px 4px;
+
+}
